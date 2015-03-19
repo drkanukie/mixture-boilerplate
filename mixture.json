@@ -1,57 +1,65 @@
 {
-    "debug": false,
-    "lintScripts": false,
-    "preprocessorLocations": [
-        "css/src",
-        "js/src"
-    ],
-    "preprocessorScriptOutput": "js",
-    "preprocessorStyleOutput": "css",
-    "projectName": "Mixture Boilerplate",
-    "projectDescription": "Mixture Boilerplate Project",
-    "publishedId": null,
-    "serverHostname": null,
-    "serverPort": null,
-    "templateDirectory": "templates",
-    "templateDefaultLayout": "layout",
-    "templateDefaultPage": "index",
-    "type": "simple",
-    "useCompass": false,
-    "simpleModePartnerServer": null,
-    "simpleModeFileTypes": null,
-    "modelSource": null,
-    "domain": null,
-    "convertHtml": {
-        "path": null,
-        "extension": ".html",
-        "ignoreUrls": null,
-        "relativePaths": false,
-        "default": null
+  "debug": false,
+  "lintScripts": false,
+  "preprocessorLocations": [
+  "css/src",
+  "js/src"
+  ],
+  "preprocessorScriptOutput": "js",
+  "preprocessorStyleOutput": "css",
+  "projectName": "Mixture Boilerplate",
+  "projectDescription": "Mixture Boilerplate Project",
+  "publishedId": null,
+  "serverHostname": null,
+  "serverPort": null,
+  "templateDirectory": "templates",
+  "templateDefaultLayout": "layout",
+  "templateDefaultPage": "index",
+  "type": "simple",
+  "useCompass": false,
+  "simpleModePartnerServer": null,
+  "simpleModeFileTypes": null,
+  "modelSource": null,
+  "domain": null,
+  "convertHtml": {
+    "path": null,
+    "extension": ".html",
+    "ignoreUrls": null,
+    "relativePaths": false,
+    "default": null
     },
     "followLeader": true,
     "routes": null,
     "customRuby": false,
     "customRubyPath": null,
-    "remoteDebugPort": 0,
+    "remoteDebugPort": 8081,
     "optimiseImages": true,
     "password": null,
     "ignoreDir": [
-        "node_modules"
+    "node_modules"
     ],
     "customTodos": null,
     "autoPrefixer": {
-        "active": true,
+      "active": true,
+      "sourceMap": false,
+      "browsers": [
+      "last 1 version",
+      "> 1%",
+      "ie 8",
+      "ie 7"
+      ]
+      },
+      "sass": {
+        "outputStyle": "nested",
         "sourceMap": false,
-        "browsers": [
-            "last 1 version",
-            "> 1%",
-            "ie 8",
-            "ie 7"
-        ]
-    },
-    "sass": null,
-    "sitemap": false,
-    "less": null,
-    "optimiseSVG": true,
-    "reload": 0
-}
+        "cache": false,
+        "lineNumbers": false,
+        "debugInfo": false,
+        "globbing": false,
+        "useLibSass": false
+        },
+        "sitemap": false,
+        "less": null,
+        "optimiseSVG": true,
+        "reload": 0
+      }
