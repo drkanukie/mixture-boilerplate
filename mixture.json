@@ -2,12 +2,13 @@
     "debug": false,
     "lintScripts": false,
     "preprocessorLocations": [
-        "css/src"
+        "css/src",
+        "js/src"
     ],
     "preprocessorScriptOutput": "js",
     "preprocessorStyleOutput": "css",
-    "projectName": "Project Name",
-    "projectDescription": "Project Description",
+    "projectName": "Mixture Boilerplate",
+    "projectDescription": "Mixture Boilerplate Project",
     "publishedId": null,
     "serverHostname": null,
     "serverPort": null,
@@ -38,7 +39,16 @@
         "node_modules"
     ],
     "customTodos": null,
-    "autoPrefixer": null,
+    "autoPrefixer": {
+        "active": true,
+        "sourceMap": false,
+        "browsers": [
+            "last 1 version",
+            "> 1%",
+            "ie 8",
+            "ie 7"
+        ]
+    },
     "sass": null,
     "sitemap": false,
     "less": null,
