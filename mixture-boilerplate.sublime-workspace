@@ -1,0 +1,314 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backg",
+				"background"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"h",
+				"href	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax: htm",
+				"Set Syntax: HTML (Liquid)"
+			],
+			[
+				"set syntax: html",
+				"Set Syntax: HTML (Liquid)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"add re",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/T C Jones/bigt/Google Drive/blenny/TT sites/stoked/stoked.html",
+		"/C/Users/T C Jones/bigt/Google Drive/blenny/TT sites/stoked/assets/css/styles.css",
+		"/C/Users/T C Jones/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/T C Jones/bigt/Google Drive/blenny/TT sites/training-courses/assets/css/styles.css",
+		"/C/Users/T C Jones/bigt/Google Drive/blenny/TT sites/training-courses/index.html",
+		"/C/Users/T C Jones/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/T C Jones/bigt/Google Drive/blenny/TT sites/stoked/assets/css/reset.min.css",
+		"/C/Users/T C Jones/bigt/Google Drive/blenny/TT sites/stoked/project.sublime-project",
+		"/C/Users/T C Jones/bigt/Google Drive/blenny/TT sites/training-courses/carousel.html",
+		"/C/Users/T C Jones/bigt/Google Drive/blenny/TT sites/training-courses/project.sublime-project",
+		"/C/Users/T C Jones/bigt/Google Drive/blenny/TT sites/training-courses/form.html",
+		"/C/Users/T C Jones/bigt/Google Drive/blenny/good-themes.gpl",
+		"/C/Users/T C Jones/tritonux/_site/blenny/delights/index.html",
+		"/C/Users/T C Jones/Desktop/2001.html",
+		"/C/Users/T C Jones/bigt/Google Drive/robot.svg",
+		"/C/Users/T C Jones/Desktop/2001.js",
+		"/C/Users/T C Jones/tritonux/blenny/_posts/2014-11-11-admin.md",
+		"/C/Users/T C Jones/tritonux/_site/tritonux.sublime-project",
+		"/C/Users/T C Jones/tritonux/blenny/index.html",
+		"/C/Users/T C Jones/tritonux/blenny/_posts/2014-11-03-delights.md",
+		"/C/Users/T C Jones/training.github.com/README.md",
+		"/C/Users/T C Jones/jekyll-boilerplate/index.html",
+		"/C/Users/T C Jones/jekyll-boilerplate/_posts/1970-01-01-test.md",
+		"/C/Users/T C Jones/jekyll-boilerplate/_posts/1970-01-01-wsk.md",
+		"/C/Users/T C Jones/jekyll-boilerplate/_includes/base.html",
+		"/C/Users/T C Jones/jekyll-boilerplate/_sass/headings.scss",
+		"/C/Users/T C Jones/jekyll-boilerplate/_config.yml",
+		"/C/Users/T C Jones/jekyll-boilerplate/_posts/1970-01-01-placeholder-post.md",
+		"/C/Users/T C Jones/jekyll-boilerplate/_layouts/page.html",
+		"/C/Users/T C Jones/jekyll-boilerplate/_layouts/post.html",
+		"/C/Users/T C Jones/jekyll-boilerplate/_includes/footer.html",
+		"/C/Users/T C Jones/jekyll-boilerplate/_drafts/draft.md",
+		"/C/Users/T C Jones/jekyll-boilerplate/assets/styles/main.scss",
+		"/C/Users/T C Jones/jekyll-boilerplate/_site/assets/styles/main.css",
+		"/C/Users/T C Jones/jekyll-boilerplate/assets/styles/syntax.css",
+		"/C/Users/T C Jones/jekyll-boilerplate/_posts/1970-01-02-placeholder-post.md",
+		"/C/Users/T C Jones/jekyll-boilerplate/_site/index.html",
+		"/C/Users/T C Jones/jekyll-boilerplate/_site/assets/styles/main.scss",
+		"/C/Users/T C Jones/jekyll-boilerplate/_site/assets/styles/syntax.css",
+		"/C/Users/T C Jones/angelfish-demo/app/styles/components/components.css",
+		"/C/Users/T C Jones/angelfish-demo/articles.py",
+		"/C/Users/T C Jones/angelfish-demo/base_handler.py",
+		"/C/Users/T C Jones/angelfish-demo/gulpfile.js",
+		"/C/Users/T C Jones/angelfish-demo/home_handler.py",
+		"/C/Users/T C Jones/angelfish-demo/app/index.html",
+		"/C/Users/T C Jones/angelfish-demo/data/bars.json",
+		"/C/Users/T C Jones/angelfish-demo/data/buddah.json",
+		"/C/Users/T C Jones/angelfish-demo/app/review.html",
+		"/C/Users/T C Jones/angelfish-demo/test.py",
+		"/C/Users/T C Jones/angelfish-demo/app/page.html",
+		"/C/Users/T C Jones/angelfish-demo/app/about.html",
+		"/C/Users/T C Jones/angelfish-demo/app/section.html",
+		"/C/Users/T C Jones/angelfish-demo/data/fake_categories.json",
+		"/C/Users/T C Jones/AppData/Roaming/Sublime Text 3/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+		"/C/Users/T C Jones/angelfish-demo/data/test.json",
+		"/C/Users/T C Jones/angelfish-demo/test.pyx",
+		"/C/Users/T C Jones/angelfish-demo/angelfish-demo.sublime-project",
+		"/C/Users/T C Jones/angelfish-demo/.gitignore",
+		"/C/Users/T C Jones/webstarter/web-starter-kit/app/index.html",
+		"/C/Users/T C Jones/webstarter/web-starter-kit/app/scripts/app.js",
+		"/C/Users/T C Jones/webstarter/web-starter-kit/app/styles/main.css",
+		"/C/Users/T C Jones/webstarter/web-starter-kit/package.json",
+		"/H/StarCitizen/CitizenClient/Data/Controls/Mappings/ff2.xml",
+		"/C/Users/T C Jones/goldfish/static/assets/less/style.less",
+		"/C/Users/T C Jones/test.html",
+		"/H/StarCitizen/CitizenClient/user.cfg",
+		"/C/Users/T C Jones/goldfish/static/index.html",
+		"/C/Users/T C Jones/bootsmooth/www/default/html/index.html",
+		"/C/Users/T C Jones/bootsmooth/www/default/html/test.html",
+		"/C/Users/T C Jones/bootsmooth/www/default/html/base.html",
+		"/C/Users/T C Jones/bootsmooth/controllers/userhandlers.py",
+		"/C/Users/T C Jones/Downloads/requiem.tab",
+		"/C/Users/T C Jones/Downloads/wardance.tab",
+		"/C/Users/T C Jones/bootsmooth/www/default/html/partial.html",
+		"/C/Users/T C Jones/bootsmooth/www/default/html/error.html",
+		"/C/Users/T C Jones/bootsmooth/bootstrap3/www/default/html/base.html",
+		"/J/c4d/serials",
+		"/C/Users/T C Jones/goldfish/templates/_header.html",
+		"/C/Users/T C Jones/goldfish/templates/base.html",
+		"/C/Users/T C Jones/goldfish/templates/_sidebar.html",
+		"/C/Users/T C Jones/goldfish/templates/index.html",
+		"/C/Users/T C Jones/goldfish/templates/layout.html",
+		"/C/Users/T C Jones/goldfish/assets/css-src/_qp_color.scss",
+		"/C/Users/T C Jones/goldfish/mixture.json",
+		"/C/Users/T C Jones/goldfish/assets/css-src/global.scss",
+		"/G/styleguide/Welcome   Mixture Documentation_files/modernizr.2.6.2.min.js",
+		"/G/styleguide/Welcome   Mixture Documentation_files/jquery.min.js",
+		"/G/styleguide/Welcome   Mixture Documentation_files/ga.js",
+		"/G/styleguide/index.html",
+		"/G/styleguide/js/bootstrap.js",
+		"/C/Users/T C Jones/tritonspec/static/index.html",
+		"/C/Users/T C Jones/tritonspec/static/images.html",
+		"/G/styleguide/Welcome   Mixture Documentation_files/prettify.min.js",
+		"/G/styleguide/Welcome   Mixture Documentation_files/app.min.js",
+		"/G/styleguide/Welcome   Mixture Documentation_files/app.min.css",
+		"/G/styleguide/triton.html",
+		"/G/mixture-liquid-syntax-sublime/readme.md",
+		"/G/bootstrap/mixture.json",
+		"/G/bootstrap/models/model.json",
+		"/G/bootstrap/public/css/theme.css",
+		"/G/bootstrap/templates/includes/navigation.liquid",
+		"/G/bootstrap/templates/layouts/layout.liquid",
+		"/G/bootstrap/templates/index.liquid",
+		"/G/bootstrap/templates/model.liquid",
+		"/C/Users/T C Jones/tritonspec/app.yaml",
+		"/G/bootstrap/public/css/less/badges.less",
+		"/G/bootstrap/public/css/less/bootstrap.less",
+		"/G/bootstrap/public/css/bootstrap.css",
+		"/C/Users/T C Jones/AppData/Roaming/Sublime Text 3/Packages/Liquid/Settings/HTML (Liquid).sublime-settings",
+		"/C/Users/T C Jones/AppData/Roaming/Sublime Text 3/Packages/User/HTML (Liquid).sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\T C Jones\\web-starter-kit-0.5.1\\web-starter-kit-master\\app\\styles\\components",
+			"C:\\Users\\T C Jones\\angelfish-demo",
+			"C:\\Users\\T C Jones\\goldfish\\static"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"update",
+			".mp4",
+			"mp4",
+			"subsection",
+			"get_article",
+			"_get_template_values",
+			"HomeHandler",
+			"icon-wrap",
+			"icon_wrap",
+			"navbar-brand"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "mixture-boilerplate.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
