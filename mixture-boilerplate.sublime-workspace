@@ -25,9 +25,14 @@
 	[
 	],
 	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
 	"command_palette":
 	{
 		"height": 311.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -70,6 +75,10 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/C/Users/Dr Kanukie/mixture-boilerplate"
+	],
 	"file_history":
 	[
 		"/C/Users/T C Jones/bigt/Google Drive/blenny/TT sites/stoked/stoked.html",
@@ -269,6 +278,7 @@
 	{
 		"height": 0.0
 	},
+	"pinned_build_system": "",
 	"project": "mixture-boilerplate.sublime-project",
 	"replace":
 	{
@@ -278,6 +288,7 @@
 	"select_file":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
@@ -286,6 +297,7 @@
 	"select_project":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
@@ -294,11 +306,13 @@
 	"select_symbol":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
 		"width": 0.0
 	},
+	"selected_group": 0,
 	"settings":
 	{
 	},

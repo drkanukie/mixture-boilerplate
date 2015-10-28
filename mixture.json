@@ -2,13 +2,13 @@
   "debug": false,
   "lintScripts": false,
   "preprocessorLocations": [
-  "css/src",
-  "js/src"
+    "css/src",
+    "js/src"
   ],
   "preprocessorScriptOutput": "js",
   "preprocessorStyleOutput": "css",
   "projectName": "Mixture Boilerplate",
-  "projectDescription": "Mixture Boilerplate Project",
+  "projectDescription": "Mixture Boilerplate project for sublime text",
   "publishedId": null,
   "serverHostname": null,
   "serverPort": null,
@@ -27,39 +27,39 @@
     "ignoreUrls": null,
     "relativePaths": false,
     "default": null
-    },
-    "followLeader": true,
-    "routes": null,
-    "customRuby": false,
-    "customRubyPath": null,
-    "remoteDebugPort": 8081,
-    "optimiseImages": true,
-    "password": null,
-    "ignoreDir": [
+  },
+  "followLeader": true,
+  "routes": null,
+  "customRuby": false,
+  "customRubyPath": null,
+  "remoteDebugPort": 8081,
+  "optimiseImages": true,
+  "password": null,
+  "ignoreDir": [
     "node_modules"
-    ],
-    "customTodos": null,
-    "autoPrefixer": {
-      "active": true,
-      "sourceMap": false,
-      "browsers": [
+  ],
+  "customTodos": null,
+  "autoPrefixer": {
+    "active": true,
+    "sourceMap": false,
+    "browsers": [
       "last 1 version",
       "> 1%",
       "ie 8",
       "ie 7"
-      ]
-      },
-      "sass": {
-        "outputStyle": "nested",
-        "sourceMap": false,
-        "cache": false,
-        "lineNumbers": false,
-        "debugInfo": false,
-        "globbing": false,
-        "useLibSass": false
-        },
-        "sitemap": false,
-        "less": null,
-        "optimiseSVG": true,
-        "reload": 0
-      }
+    ]
+  },
+  "sass": {
+    "outputStyle": "nested",
+    "sourceMap": false,
+    "cache": false,
+    "lineNumbers": false,
+    "debugInfo": false,
+    "globbing": false,
+    "useLibSass": false
+  },
+  "sitemap": false,
+  "less": null,
+  "optimiseSVG": true,
+  "reload": 0
+}
